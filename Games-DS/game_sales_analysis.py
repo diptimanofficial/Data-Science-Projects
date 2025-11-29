@@ -26,7 +26,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 200)
 
 # Step 1: Loading Data
-df = pd.read_csv(r"C:\Users\vikra\OneDrive\Desktop\Diptiman_DS\Games_DS\games_march2025_cleaned.csv", low_memory=False)
+df = pd.read_csv(f"{dir_path}\games_march2025_cleaned.csv", low_memory=False)
 
 print("\n=== Dataset Loaded Successfully ===")
 print("Shape: ", df.shape)
