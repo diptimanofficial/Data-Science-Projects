@@ -15,7 +15,6 @@ https://drive.google.com/file/d/1FU_aMBuB-XQREh40SHayVULcDsBds8pJ/view
 
 ## Project-flow: 
 
-\`\`\`
 \'\'\'
 Games-DS/
 │
@@ -37,4 +36,3 @@ Games-DS/
 │
 └── game_sales_analysis.py                    <-- Main analysis script
 \'\'\'
-\`\`\`
